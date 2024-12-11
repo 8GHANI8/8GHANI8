@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+🔭 I’m currently working on build an web app using lovable.dev
+🌱 I’m currently learning to code
+🤔 Working on this just as a hobby
 <!--
 **8GHANI8/8GHANI8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
